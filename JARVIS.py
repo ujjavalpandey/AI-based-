@@ -58,8 +58,7 @@ def sendEmail(to,content):
     server.close()
 if __name__ == "__main__":
     WishMe()
-    while True:
-      if 1:
+    if 1:
         query = takecommand().lower()
         if 'wikipedia' in query:
           speak('searching wikipedia...')
