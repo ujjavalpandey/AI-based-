@@ -1,3 +1,3 @@
 # AI-based-
-#this is python based basic project
-##automation 
+# this is python based basic project
+## automation 
